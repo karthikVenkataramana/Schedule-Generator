@@ -6,3 +6,5 @@ An ASP.NET website designed to aid administrators to prepare time schedules for 
 1) IIS Server
 2) SQL Server
 3) .NET Framework
+
+This project is still under construction. Please check back at later time.
